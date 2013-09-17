@@ -1,0 +1,6 @@
+C:/Programming/My_MxM_stuff/zlib-1.2.8/CMakeFiles/ALL_BUILD.dir
+C:/Programming/My_MxM_stuff/zlib-1.2.8/CMakeFiles/ZERO_CHECK.dir
+C:/Programming/My_MxM_stuff/zlib-1.2.8/CMakeFiles/example.dir
+C:/Programming/My_MxM_stuff/zlib-1.2.8/CMakeFiles/minigzip.dir
+C:/Programming/My_MxM_stuff/zlib-1.2.8/CMakeFiles/zlib.dir
+C:/Programming/My_MxM_stuff/zlib-1.2.8/CMakeFiles/zlibstatic.dir
