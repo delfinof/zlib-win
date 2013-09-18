@@ -1,0 +1,10 @@
+Debug/
+example.dir/MinSizeRel/
+example.dir/Release/
+minigzip.dir/MinSizeRel/
+minigzip.dir/Release/
+*.log
+*.tlog
+*.obj
+*.sdf
+*.suo
