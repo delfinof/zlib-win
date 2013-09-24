@@ -8,3 +8,7 @@ minigzip.dir/Release/
 *.obj
 *.sdf
 *.suo
+*.user
+ARM/Release/
+ipch/
+Release/
