@@ -12,3 +12,11 @@ minigzip.dir/Release/
 ARM/Release/
 ipch/
 Release/
+ReleaseW81/
+ARM/Debug/
+ARM/DebugW81/
+ARM/DebugWP8/
+DebugW81/
+DebugWP8/
+ARM/ReleaseWP8/
+ReleaseWP8/
